@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTAuthBlazor", "JWTAuthBlazor\JWTAuthBlazor.csproj", "{2E49012D-005C-455E-9E3E-950799133070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E49012D-005C-455E-9E3E-950799133070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E49012D-005C-455E-9E3E-950799133070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E49012D-005C-455E-9E3E-950799133070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E49012D-005C-455E-9E3E-950799133070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {876BAF11-C4F1-4BF9-9316-E87BCB06986F}
+	EndGlobalSection
+EndGlobal
